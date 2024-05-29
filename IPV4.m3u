@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/guide.xml, https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/guide.xml, https://s.urfan.web.id/epgxmlgz" refresh="3600"
 
 
-########################
-######### CHINA ########
-########################
+#########################
+######### CHINA #########
+#########################
 
 #EXTINF:-1 group-title="China" tvg-id="cctv1" tvg-logo="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/cctv1.png",CCTV-1 综合
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
@@ -71,7 +71,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
 #EXTINF:-1 group-title="China" tvg-id="btvchild" tvg-logo="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/btvchild.png",卡酷少儿
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
 
-#EXTINF:-1 group-title="China" tvg-id="btvjishi" tvg-logo="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/btvjishi.png",BTV纪实
+#EXTINF:-1 group-title="China" tvg-id="btvjishi" tvg-logo="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/btvjishi.png",北京纪实
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 
 #EXTINF:-1 group-title="China" tvg-id="cetv1" tvg-logo="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/cetv1.png",CETV-1
@@ -184,6 +184,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
 
 #EXTINF:-1 group-title="China" tvg-id="zhejiang" tvg-logo="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/zhejiang.png",浙江卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
+
 
 ##########################
 ######## LPP TVRI ########
