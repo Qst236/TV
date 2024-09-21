@@ -36,6 +36,6 @@ jobs:
         run: |
           git config --local user.name github-actions
           git config --local user.email github-actions@github.com
-          git add IPV4.m3u guide.xml
+          git add IPV4.m3u guide.xml.gz
           git commit -m "auto update at ${{ env.UPDATE_TIME }}" --allow-empty
           git push
