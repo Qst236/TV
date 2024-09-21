@@ -40,3 +40,6 @@ with open("guide.xml", "r") as f:
 
 with open("guide.xml", "w") as f:
 	f.write(china_epg + indonesia)
+
+with open("guide.xml", 'rb') as f_in, gzip.open("guide.xml.gz", 'wb') as f_out:
+    f_out.writelines(f_in)
