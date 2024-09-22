@@ -244,13 +244,13 @@ https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
 #EXTVLCOPT:http-user-agent=FirstMediaX/3.46.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-http://s.urfan.web.id/sctv
+https://s.urfan.id/sctv
 
 #EXTINF:-1 group-title="Nasional" tvg-id="Indosiar.id" tvg-logo="https://iptv.urfan.id/logo/indosiar.png",Indosiar
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 #EXTVLCOPT:http-user-agent=FirstMediaX/3.46.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-http://s.urfan.web.id/indosiar
+https://s.urfan.id/indosiar
 
 #EXTINF:-1 group-title="Nasional" tvg-id="OChannel.id" tvg-logo="https://iptv.urfan.id/logo/moji.png",Moji HD
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -362,7 +362,7 @@ http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
 
 #EXTINF:-1 group-title="Nasional" tvg-id="Net.id" tvg-logo="https://iptv.urfan.id/logo/net.png",NET HD
 #EXTVLCOPT:http-user-agent=YouTube/19.36.37 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-http://s.urfan.web.id/net
+https://s.urfan.id/net
 
 
 ###############################
@@ -2175,11 +2175,11 @@ https://s5.alhastream.com/radio/8180/radio
 
 #EXTINF:-1 group-title="Radio" tvg-id="mtafm.id" tvg-logo="https://iptv.urfan.id/logo/mtafm.png",MTA FM
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://stream.urfan.web.id/persada
+https://stream.urfan.id/persada
 
 #EXTINF:-1 group-title="Radio" tvg-id="persadafm.id" tvg-logo="https://iptv.urfan.id/logo/persadafm.png",Persada FM
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://stream.urfan.web.id/persada
+https://stream.urfan.id/persada
 
 #EXTINF:-1 group-title="Radio" tvg-id="suarapantura.id" tvg-logo="https://iptv.urfan.id/logo/suarapantura.png",Suara Pantura FM
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -2211,7 +2211,7 @@ https://d2kziuzkf9oizb.cloudfront.net/rd004/playlist.m3u8
 
 #EXTINF:-1 group-title="Radio" tvg-id="urfanradio.id" tvg-logo="https://iptv.urfan.id/logo/urfanradio.png",URFAN RADIO
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://stream.urfan.web.id/radio
+https://stream.urfan.id/radio
 
 #EXTINF:-1 group-title="Radio" tvg-id="persadafm.id" tvg-logo="https://iptv.urfan.id/logo/persadafm.png",Persada FM (Radio Visual)
 #EXTVLCOPT:http-user-agent=YouTube/19.36.37 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
